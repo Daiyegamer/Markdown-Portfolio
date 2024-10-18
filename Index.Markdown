@@ -1,7 +1,7 @@
 # Home page
 [Home]()
 [Contact](/Contact.md)
-[Project](/Projects.md)
+[Projects](/Projects.md)
 
 ## About me
 <img src="./<img src="./AdilAvatar.jfif width=100> 
