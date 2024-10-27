@@ -1,7 +1,7 @@
 # Contact Page
 
 
-[Home]()
+[Home](index.md)
 [Contact](/Contact.md)
 [Projects](/Projects.md)
 
