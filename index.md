@@ -7,7 +7,9 @@
 <img src="./<img src=./AdilAvatar.jpeg" width=100> 
 
 ### Education   
-> Dubai Aviation College (Aerospace Engineering)  
+> Dubai Aviation College (Aerospace Engineering)
+> 
 > Redstone College (Aircraft Maintenance Engineering)
+> 
 > Humber Polytechnic (Web design and Development)   
 
